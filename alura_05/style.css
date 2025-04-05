@@ -27,6 +27,7 @@ body {
   h2,
   p {
     color: white;
+    text-align: center;
   }
   
   /* Estrutura do questionário */
@@ -76,12 +77,12 @@ body {
     padding: 5px;
     border: none;
     cursor: pointer;
-    background: #ff1b7b;
+    background: #154afa;
     color: white;
   }
   
   .botao-resposta:hover {
-    background: #19caca;
+    background: #7795f7;
     font-weight: 600;
   }
   

@@ -1,5 +1,49 @@
 // PARTE 1: Lista de perguntas e respostas
+let perguntas = [ 
+    {
+        pergunta: "Qual é o principal Pokémon do Ash?", 
+        respostas: [
+            { opcao: "Pikachu", correto: true},
+            { opcao: "Bulbasaur", correto: false},
+            { opcao: "Charmander", correto: false}
+        ] 
+    },
+    {
+        pergunta: "Qual o nome do vocalista do Twenty One Pilots?", 
+        respostas: [
+            { opcao: "Clancy", correto: false},
+            { opcao: "Tyler", correto: true},
+            { opcao: "Josh Dun", correto: false},
 
+        ]
+    },
+    {
+        pergunta: "Quem é o protagosnita do Harry Potter?",
+        respostas: [
+            { opcao: "Voldemort", correto: false},
+            { opcao: "Minerva", correto: false},
+            { opcao: "Harry Potter", correto: true},
+        ]
+    },
+
+    
+    {
+        pergunta: "Em Hobbit, qual o nome do dragão?",
+        respostas: [
+            { opcao: "Legolas", correto: false},
+            { opcao: "Smaug", correto: true},
+            { opcao: "Frodo", correto: false},
+        ]
+    },
+    {
+        pergunta: "Quem é o parceiro do Sherlock Holmes?",
+        respostas: [
+            { opcao: "Dr. Watson", correto: true},
+            { opcao: "Lestrade", correto: false},
+            { opcao: "Mycroft", correto: false},
+        ]  
+    }
+];
 
 // PARTE 2: Pegando os elementos do HTML
 const perguntaElemento = document.querySelector(".pergunta");
@@ -35,7 +79,7 @@ function carregarPergunta() {
     botao.onclick = function () {
       // Se a resposta for correta (resposta.correto === true), incrementa o número de acertos
       if (resposta.correto) {
-        acertos = acertos + 1;
+        acertos = acertos;
         acertos++; // Incrementa o contador de acertos
       }
 
