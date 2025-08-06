@@ -14,13 +14,10 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 9ª
 ## 💻 Projetos desenvolvidos
 
 1. Conversor de moedas
-2. Jogo da adivinhação
-3. Aluraflix (catálogo de filmes)
-4. Tabela de classificação
-5. Mentalista (jogo)
-6. Certificard (gerador de certificados)
-7. Calculadora de média
-8. Outros mini projetos interativos
+2. Jogo Pedra, Papel e Tesoura
+3. Jogo da adivinhação
+4. Batalha Pokémon
+5. Jogo de perguntas e respostas
 
 > Cada projeto está em um arquivo HTML separado dentro da pasta do repositório.
 > Eu aprovetei para **customizar bastante o visual e a temática** de alguns projetos :)
