@@ -1,7 +1,3 @@
-# Imersao-Alura
- Imersão Dev 9ª Ed. - Alura
-
-
 # Imersão Dev - 9ª Edição (Alura)
 
 Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 9ª edição**, promovida pela [Alura](https://www.alura.com.br/).
@@ -27,3 +23,4 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 9ª
 8. Outros mini projetos interativos
 
 > Cada projeto está em um arquivo HTML separado dentro da pasta do repositório.
+> Eu aprovetei para **customizar bastante o visual e a temática** de alguns projetos :)
